@@ -1,0 +1,14 @@
+# Compiled programs and object files
+build/
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code "Code Runner" temporary file
+tempCodeRunnerFile.c
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
