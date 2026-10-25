@@ -9,6 +9,6 @@ int main() {
     printf("enter b \n");
     scanf("%d", &b);
 
-    printf("Thr sum of these two numbers is :%d \n", a+b);
+    printf("The sum of these two numbers is: %d \n", a+b);
     return 0;
 }
